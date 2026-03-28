@@ -6,16 +6,12 @@ The AI Interview Simulator is a Python-based command-line application designed t
 
 The system simulates a real interview environment and evaluates user responses using a rule-based AI approach enhanced with basic Natural Language Processing (NLP) techniques such as similarity matching. It analyzes answers based on structure, relevance, and technical vocabulary, and provides detailed feedback for improvement.
 
-
-
 ## Objective
 
 * To provide a platform for interview practice
 * To evaluate answers automatically using AI-inspired techniques
 * To identify mistakes and suggest improvements
 * To improve communication and technical explanation skills
-
-
 
 ## Requirements
 
@@ -25,8 +21,6 @@ The system simulates a real interview environment and evaluates user responses u
 Install dependency:
 pip install matplotlib
 
-
-
 ## Project Structure
 
 * main.py = Controls interview flow
@@ -34,8 +28,6 @@ pip install matplotlib
 * evaluator.py = AI-based answer evaluation logic
 * report.py = Generates report.txt
 * utils.py = Calculates result and generates graph
-
-
 
 ## AI / NLP Implementation
 
@@ -53,8 +45,6 @@ Instead of exact keyword matching, the system detects similar words and allows m
 Example:
 “classes and objects” can match the keyword “class”.
 
-
-
 ## How to Run the Project
 
 1. Clone or download the repository
@@ -64,8 +54,6 @@ Example:
    python main.py
 5. Enter your name
 6. Answer each question
-
-
 
 ## Output
 
@@ -87,8 +75,6 @@ Console output:
 * Final score
 * Result category (Excellent / Average / Needs Improvement)
 
-
-
 ## Evaluation Criteria
 
 Each answer is scored out of 10 based on:
@@ -97,16 +83,12 @@ Each answer is scored out of 10 based on:
 2. Keyword relevance (with similarity matching)
 3. Technical vocabulary usage
 
-
-
 ## Limitations
 
 * Not a full machine learning model
 * Uses basic NLP (no deep semantic understanding)
 * Command-line based (no GUI)
 * No voice input
-
-
 
 ## Future Enhancements
 
@@ -115,8 +97,6 @@ Each answer is scored out of 10 based on:
 * Voice input integration
 * Web or GUI interface
 * Role-specific interview questions
-
-
 
 ## Conclusion
 
