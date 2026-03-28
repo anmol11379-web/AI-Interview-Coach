@@ -6,6 +6,7 @@ The AI Interview Simulator is a Python-based command-line application designed t
 
 The system simulates a real interview environment and evaluates user responses using a rule-based AI approach enhanced with basic Natural Language Processing (NLP) techniques such as similarity matching. It analyzes answers based on structure, relevance, and technical vocabulary, and provides detailed feedback for improvement.
 
+
 ## Objective
 
 * To provide a platform for interview practice
