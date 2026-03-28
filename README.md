@@ -121,5 +121,3 @@ Each answer is scored out of 10 based on:
 ## Conclusion
 
 The AI Interview Simulator provides a simple and effective way to practice interview questions using AI-inspired evaluation techniques. By combining rule-based logic with NLP similarity matching, the system delivers structured feedback and helps users improve their performance over time.
-
----
