@@ -1,0 +1,165 @@
+
+============================
+AI INTERVIEW REPORT
+============================
+Name: Anmol Mishra
+
+DETAILED ANALYSIS
+
+Question: Tell me about yourself
+Your Answer: Electrical engineering student, skilled in circuit analysis and programming, focused on practical problem-solving.
+Score: 6/10
+Mistakes:
+- Answer not detailed enough
+- Lack of technical terms
+How to Improve:
+- Explain your answer with more details and examples
+- Use words like project, system, algorithm
+
+-----------------------------
+Question: What are your strengths?
+Your Answer: Problem-solving, structured approach, persistence, efficiency.
+Score: 0/10
+Mistakes:
+- Very short answer
+- No relevant keywords used
+- Lack of technical terms
+How to Improve:
+- Give at least 2-3 lines explanation
+- Use domain-related keywords
+- Use words like project, system, algorithm
+
+-----------------------------
+Question: Why should we hire you?
+Your Answer: Efficient, outcome-oriented, strong in engineering problem-solving, delivers complete solutions with precision.
+Score: 2/10
+Mistakes:
+- Answer not detailed enough
+- No relevant keywords used
+- Lack of technical terms
+How to Improve:
+- Explain your answer with more details and examples
+- Use domain-related keywords
+- Use words like project, system, algorithm
+
+-----------------------------
+Question: Where do you see yourself in 5 years?
+Your Answer: In 5 years, leading engineering projects, expanding expertise in web development and advanced circuit systems.
+Score: 4/10
+Mistakes:
+- Answer not detailed enough
+- No relevant keywords used
+How to Improve:
+- Explain your answer with more details and examples
+- Use domain-related keywords
+
+-----------------------------
+Question: Explain your favorite project
+Your Answer: Designed a basic e-commerce product page in HTML, showcasing products with structured layout and expandable features.
+Score: 5/10
+Mistakes:
+- Answer not detailed enough
+How to Improve:
+- Explain your answer with more details and examples
+
+-----------------------------
+Question: What programming languages do you know?
+Your Answer: C, Python, HTML, basics of CSS and JavaScript.
+Score: 2/10
+Mistakes:
+- Very short answer
+- Lack of technical terms
+How to Improve:
+- Give at least 2-3 lines explanation
+- Use words like project, system, algorithm
+
+-----------------------------
+Question: What is OOP?
+Your Answer: Object-Oriented Programming (OOP) is a paradigm that organizes code into objects, combining data and functions. It models real-world entities and emphasizes modularity, reusability, and abstraction.
+Score: 8/10
+
+-----------------------------
+Question: Explain a challenge you faced in coding
+Your Answer: Faced debugging a transient response code where output was unstable; solved by stepwise analysis and correcting initial conditions.
+Score: 5/10
+Mistakes:
+- Answer not detailed enough
+How to Improve:
+- Explain your answer with more details and examples
+
+-----------------------------
+Question: What is your favorite subject?
+Your Answer: Maths
+Score: 0/10
+Mistakes:
+- Very short answer
+- No relevant keywords used
+- Lack of technical terms
+How to Improve:
+- Give at least 2-3 lines explanation
+- Use domain-related keywords
+- Use words like project, system, algorithm
+
+-----------------------------
+Question: How do you debug code?
+Your Answer: Use systematic approach:Check error messages, add print/log statements, test small parts, isolate issue, correct logic.
+Score: 9/10
+Mistakes:
+- Answer not detailed enough
+How to Improve:
+- Explain your answer with more details and examples
+
+-----------------------------
+Question: What is your biggest weakness?
+Your Answer: Impatience with unnecessary steps, prefer direct solutions.
+Score: 0/10
+Mistakes:
+- Very short answer
+- No relevant keywords used
+- Lack of technical terms
+How to Improve:
+- Give at least 2-3 lines explanation
+- Use domain-related keywords
+- Use words like project, system, algorithm
+
+-----------------------------
+Question: Are you comfortable working in a team?
+Your Answer: Yes, comfortable working in a team, adaptable and focused on clear structured tasks.
+Score: 4/10
+Mistakes:
+- Answer not detailed enough
+- Lack of technical terms
+How to Improve:
+- Explain your answer with more details and examples
+- Use words like project, system, algorithm
+
+-----------------------------
+Question: What is your understanding of AI or ML?
+Your Answer: Artificial Intelligence (AI) is the broader concept of creating machines that simulate human intelligence, while Machine Learning (ML) is a subset of AI focused on algorithms that learn patterns from data.
+Score: 10/10
+
+-----------------------------
+Question: How do you keep yourself updated with technology?
+Your Answer: through social media
+Score: 0/10
+Mistakes:
+- Very short answer
+- No relevant keywords used
+- Lack of technical terms
+How to Improve:
+- Give at least 2-3 lines explanation
+- Use domain-related keywords
+- Use words like project, system, algorithm
+
+-----------------------------
+
+OVERALL PERFORMANCE
+Final Score: 3.93/10
+Result: Needs Improvement
+
+PERSONALIZED FEEDBACK
+- Your answers are too short and lack important details.
+- You need to improve your basic understanding of subjects.
+- Practice speaking about your skills, projects, and strengths.
+- Learn how to explain concepts clearly in simple words.
+- Start with basic questions and gradually improve.
